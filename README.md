@@ -1,7 +1,7 @@
 ## Card Game <b> 'MAKAO' </b>
 
 This is just the back end code for card game 'Makao'.
-The idea for this project was to practice our skills in C++ with [Stefan Krsteski](https://github.com/Stefanstud).
+The idea for this project was to practice our skills in C++ with [Hristijan Slavkoski](https://github.com/HristijanSlavkoski).
 
 <p align="center"> <b>  RULES FOR THE GAME: </b>
 </p>
